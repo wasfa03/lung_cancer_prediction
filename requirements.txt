@@ -2,3 +2,5 @@ numpy
 pandas
 tensorflow
 keras
+cv2
+PIL
