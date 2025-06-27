@@ -1,6 +1,6 @@
-numpy 
+streamlit
+numpy
 pandas
 tensorflow
-keras
-cv2
-PIL
+Pillow
+opencv-python-headless
